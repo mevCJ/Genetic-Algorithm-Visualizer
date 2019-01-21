@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Graph_t\Graph_t\bin\Debug\Graph_t.exe.config
+C:\Users\User\source\repos\Graph_t\Graph_t\bin\Debug\Graph_t.exe
+C:\Users\User\source\repos\Graph_t\Graph_t\bin\Debug\Graph_t.pdb
+C:\Users\User\source\repos\Graph_t\Graph_t\obj\Debug\Graph_t.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Graph_t\Graph_t\obj\Debug\Graph_t.Form1.resources
+C:\Users\User\source\repos\Graph_t\Graph_t\obj\Debug\Graph_t.Properties.Resources.resources
+C:\Users\User\source\repos\Graph_t\Graph_t\obj\Debug\Graph_t.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Graph_t\Graph_t\obj\Debug\Graph_t.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Graph_t\Graph_t\obj\Debug\Graph_t.exe
+C:\Users\User\source\repos\Graph_t\Graph_t\obj\Debug\Graph_t.pdb
